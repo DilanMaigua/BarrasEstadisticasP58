@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>Recursos/cerrar-sesion.png</file>
+        <file>Recursos/disco-flexible.png</file>
+        <file>Recursos/estadisticas.png</file>
+    </qresource>
+</RCC>
